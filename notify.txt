@@ -1,0 +1,14 @@
+1
+|||
+Reaper Update Notifications.
+
+New Build Is OUT! Click DISMISS, another message should pop up
+click FRESH INSTALL! Once install is done, click force close
+and re-open kodi afterwards and you're good to go.
+
+Changelog
+
+Added Lambdascrapers and all settup with best working scrapers i found, 
+removed dead addons, modified Gaia a bit to add Lambdascrapers settings
+to be read. Should be included in the next gaia update but
+didn't want to wait.
