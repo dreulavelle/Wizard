@@ -1,6 +1,6 @@
 id="plugin.program.wrctvwizard"
 version="0.1.6"
-zip="https://github.com/weriseco/Addons/blob/master/plugin.program.wrctv/plugin.program.wrctv-0.1.6.zip"
+zip="https://github.com/weriseco/Addons/blob/master/plugin.program.wrctvwizard/plugin.program.wrctv-0.1.6.zip"
 
 name="WRC TV Titan Krypton"
 version="1.5"
